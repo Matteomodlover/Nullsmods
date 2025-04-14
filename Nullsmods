@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nulls Mods</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f7fc;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+        }
+        
+        h1 {
+            font-size: 3rem;
+            color: #4A90E2;
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .container {
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 40px;
+            margin-top: 30px;
+            border-radius: 10px;
+            width: 90%;
+            max-width: 900px;
+            text-align: center;
+        }
+
+        .privacy-notice {
+            background-color: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+            padding: 15px;
+            font-size: 16px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+        }
+
+        .privacy-notice strong {
+            font-size: 18px;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            background-color: #f9f9f9;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            padding: 15px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            transition: background-color 0.3s;
+        }
+
+        li:hover {
+            background-color: #f0f8ff;
+        }
+
+        a {
+            text-decoration: none;
+            color: #4A90E2;
+            font-weight: bold;
+            font-size: 18px;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .footer {
+            font-size: 14px;
+            margin-top: 40px;
+            color: #888;
+        }
+
+        .download-button {
+            margin-top: 40px;
+            background-color: #4A90E2;
+            color: white;
+            font-size: 22px;
+            padding: 20px 50px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .download-button:hover {
+            background-color: #357ab7;
+        }
+
+        .download-button:active {
+            background-color: #286590;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Willkommen auf der Nulls Mods Seite!</h1>
+
+    <div class="container">
+        <div class="privacy-notice">
+            <p><strong>Wichtiger Hinweis:</strong> Aus Datenschutzgründen dürfen die Namen der Links hier nicht genannt werden. <br> 
+            <em>This sentence is translatable for privacy reasons.</em></p>
+        </div>
+
+        <ul>
+            <li><a href="https://t.me/nb_mods/37360/45030" target="_blank">Telegram Link</a></li>
+            <li>
+                <strong>RoboColt:</strong> Zamenяет скин Акула Кольта на Робота<br>
+                <a href="https://t.me/nb_mods/1/46544" target="_blank">Wie es aussieht (Bild)</a><br>
+                <a href="https://t.me/nb_mods/3/46550" target="_blank">Download-Link oder Info</a>
+            </li>
+            <li><a href="https://t.me/nb_mods/37360/49082" target="_blank">Neuer Telegram-Link</a></li>
+            <li><a href="https://t.me/nb_mods/37360/45028" target="_blank">Zusätzlicher Telegram-Link</a></li>
+            <li><a href="https://t.me/nb_mods/37360/45037" target="_blank">Weitere Datei oder Info</a></li>
+            <li><a href="https://t.me/nb_mods/37360/45336" target="_blank">Neuer Eintrag</a></li>
+            <li><a href="https://t.me/nb_mods/1/35524" target="_blank">Bild oder Vorschau</a></li>
+            <li><a href="https://t.me/nb_mods/3/40045" target="_blank">Download oder Info</a></li>
+            <li><a href="https://t.me/nb_mods/37360/40114" target="_blank">Zusätzlicher Link</a></li>
+            <li><a href="https://t.me/nb_mods/3/39783" target="_blank">Neuer Telegram-Link</a></li>
+            <li><a href="https://t.me/nb_mods/1/39690" target="_blank">Telegram-Link 1</a></li>
+            <li><a href="https://t.me/nb_mods/3/39689" target="_blank">Telegram-Link 2</a></li>
+            <li><a href="https://t.me/nb_mods/3/39604" target="_blank">Neuer Telegram-Link 3</a></li>
+            <li><a href="https://t.me/nb_mods/37360/40803" target="_blank">Neuer Telegram-Link 4</a></li>
+            <li><a href="https://t.me/nb_mods/3/40644" target="_blank">Neuer Telegram-Link 5</a></li>
+            <li><a href="https://t.me/nb_mods/1/40824" target="_blank">Neuer Telegram-Link 6</a></li>
+            <li><a href="https://t.me/nb_mods/3/40265" target="_blank">Neuer Telegram-Link 7</a></li>
+            <li><a href="https://t.me/nb_mods/1/42962" target="_blank">Neuer Telegram-Link 8</a></li>
+            <li><a href="https://t.me/nb_mods/3/42514" target="_blank">Neuer Telegram-Link 9</a></li>
+            <li><a href="https://t.me/nb_mods/37360/42993" target="_blank">Neuer Telegram-Link 10</a></li>
+            <li><a href="https://t.me/nb_mods/37360/43351" target="_blank">Neuer Telegram-Link 11</a></li>
+            <li><a href="https://t.me/nb_mods/37360/45029" target="_blank">Neuer Telegram-Link 12</a></li>
+            <li><a href="https://t.me/nb_mods/37360/45030" target="_blank">Neuer Telegram-Link 13</a></li>
+        </ul>
+
+        <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nullbrawl.org/&ved=2ahUKEwiX7caczdaMAxVR8LsIHVkSHzgQFnoECBwQAQ&usg=AOvVaw0jTMFjdSdvgUGa52dEbe7C" class="download-button" target="_blank">Nulls Brawl App Herunterladen</a>
+    </div>
+
+    <div class="footer">
+        <p>© 2025 Nulls Mods - Alle Rechte vorbehalten</p>
+    </div>
+
+</body>
+</html>
